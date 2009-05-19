@@ -1,0 +1,13 @@
+Ejercicio 2.7.1
+
+Noté que el enunciado pide esto en el primer párrafo del objetivo: "Se pide, para la primera versión planificada:", y veo en el archivo "UARTN Indicadores de Control.xls" que está toda la funcionalidad de UARTN. No sé si esto es algo que se habló o que se acordó, pero bueno, creo que habría que apuntar a la primera versión solamente. No hice nada al respecto, porque de todas maenras creo que estaría jodido tener un buen gráfico con fechas de liberación y aprobación del usuario (ver comentario siguiente) sobre solamente una versión. Por decirlo de alguna manera, "nos quedaría en vez de una curva un puntito". Pero bueno, al menos lo quería comentar. En ppio, lo que hice es eliminar ", para la primera versión planificada" de esa parte del enunciado cuando la copié al informe, onda "acá no pasó nada ...", y agregué una hipótesis.
+
+Noté que el enunciado pide esto en su punto 3: "agrega las curvas de funcionalidad liberada al usuario y aprobada por el usuario ..." por lo cual concluyo que hay que agregar dos curvas:
+-	La curva de funcionalidad liberada al usuario
+-	La curva de funcionalidad aprobada por el usuario
+Y por lo que veo en el archivo "UARTN Indicadores de Control.xls" hay solamente una de estas curvas agregadas, la "curva de funcionalidad liberada al usuario", siendo que falta la "curva de funcionalidad aprobada por el usuario".
+Yo no sé aún si estoy interpretando bien el enunciado, o si en algún momento en clase se dijo que esta segunda curva que aparentemente falta en realidad no va, o si en algún momento se determinó a nivel grupo que no correspondía hacerlo, pero bueno, por lo inseguro que soy, lo hice, y lo puse en el directorio "propuesta diego"; fíjense qué versión del TP les queda más cómoda
+
+Respecto al mismo ejercicio: es un indicador de funcionalidad completa, pero que se arma de manera distinta del explicado en el PDF de la práctica, y del explicado en ese otro PDF que dan como referencia, "QCyPC-Indicadores_de_Control.pdf" (del que se afanaron todo [modo buchon off]), por ende, no necesariamente las cosas que se explican en sendos documentos aplican para este caso. Yo lo que hice es analizar qué nos hacen armar en el ejercicio 2.7.1, compararlo contra lo que está recomendado armar en los PDS's, y a partir de ahí concluir el análisis ... es algo que queda 100 % subjetivo, A MI ENTENDER .. es decir, algunas cosas son objetivas, si no estoy contemplando fecha de finalización estimada ni fecha de finalización real por cada punto de funcionalidad acumulada, entonces es claro que no tengo una referencia directa de cuándo se puede terminar el proyecto, pero el resto de las cosas que se pueden decir ... y dan para polemizar en clase largo y tendido, ME PARECE ...
+
+Cualquier cosa me dicen
