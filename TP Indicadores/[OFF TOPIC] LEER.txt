@@ -1,0 +1,15 @@
+Holas !!
+
+(Culpa mía por no decirlo antes)
+
+En casa tengo MSOffice 2003, no el 2007, por lo cual no soporta "de movida" al formato docx. En consecuencia iInstalé esto para poder trabajar bien con docx:
+
+http://www.microsoft.com/downloads/details.aspx?displaylang=es&FamilyID=941b3470-3ae9-4aee-8f43-c6bb74cd1466 
+
+No tengo problema en laburar en esto, pero estaría bueno que la próxima volvamos al doc de toda la vida, no al docx, porque el plugin este de Microsoft para laburar con docx teniendo Office 2003 es una verdadera bosta, y cada vez que guardo me pregunta si realmente lo quiero hacer (¿?), me está volviendo loco. Es la típica porquería que hace que me tiente con OpenOffice (que abre docx de una, pero le cambia algunas cositas al formato, por eso no lo uso), y que luego no me quiera volver a pasar a MSOffice.
+
+Disculpen lo rompebolas que soy
+
+Saludos
+
+Diego
